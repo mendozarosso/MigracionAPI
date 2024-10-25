@@ -1,0 +1,17 @@
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\bin\Debug\net8.0\MigracionAPI.Infrastructure.deps.json
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\bin\Debug\net8.0\MigracionAPI.Infrastructure.runtimeconfig.json
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\bin\Debug\net8.0\MigracionAPI.Infrastructure.dll
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\bin\Debug\net8.0\MigracionAPI.Infrastructure.pdb
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\bin\Debug\net8.0\MigracionAPI.Domain.dll
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\bin\Debug\net8.0\MigracionAPI.Domain.pdb
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\Migracio.76625BCA.Up2Date
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.dll
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\refint\MigracionAPI.Infrastructure.dll
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.pdb
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\MigracionAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Infrastructure\obj\Debug\net8.0\ref\MigracionAPI.Infrastructure.dll

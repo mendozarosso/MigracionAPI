@@ -1,0 +1,11 @@
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\bin\Debug\net8.0\MigracionAPI.Domain.deps.json
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\bin\Debug\net8.0\MigracionAPI.Domain.dll
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\bin\Debug\net8.0\MigracionAPI.Domain.pdb
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\MigracionAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\MigracionAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\MigracionAPI.Domain.AssemblyInfo.cs
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\MigracionAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\MigracionAPI.Domain.dll
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\refint\MigracionAPI.Domain.dll
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\MigracionAPI.Domain.pdb
+C:\Users\jason\programacion\MigracionAPI\MigracionAPI.Domain\obj\Debug\net8.0\ref\MigracionAPI.Domain.dll
